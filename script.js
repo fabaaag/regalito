@@ -49,6 +49,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 </div>
                 <div class="cami-frames">
                     <h3 style="color: white; margin: 2rem 0 1rem 0;">Cami en la Historia:</h3>
+                    <h6>ta repetido ups<h6/>
                     <div class="frames-grid">
                         <div class="frame-item">
                             <img src="frame 1.png" alt="Cami aparece">
